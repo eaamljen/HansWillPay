@@ -1,5 +1,5 @@
 a = 18
 if a < 18:
-    print("more mugs, please")
+    print("More mugs, please!")
 else:
-    print("Hans will pay for these")
+    print("Ok, enough! Hans will pay for these.")
